@@ -1,0 +1,230 @@
+"Control Area ID","Control Area","Control Area Internal Id","Control Objective ID","Control Objective","Control Objective Internal Id","Control ID","Control","Control Status","Control Internal Id","Control Enabled","Evidence Status","Evidence Name","Notes","Attachment","Attachment Type","Evidence Type"
+"4","Context of the organization",705,"C 4.1","4.1 Understanding the organisation and its context",7390,"CTL12161","The organization shall determine external and internal issues that are relevant to its purpose and that  affect its ability to achieve the intended result(s) of its AI management system.","In Progress",19046,true,,,,,,
+,,,,,,"CTL12162","The organization shall consider the intended purpose of the AI systems that are developed, provided or used by the organization.","In Progress",19047,true,,,,,,
+,,,,,,"CTL12163","The organization shall determine its roles with respect to these AI systems.","In Progress",19048,true,,,,,,
+,,,"C 4.2","4.2 Understanding the needs and expectations of workers and other interested parties",7391,"CTL12164","The organization shall determine:
+- the interested parties that are relevant to the AI management system;
+- the relevant requirements of these interested parties;
+- which of these requirements will be addressed through the AI management system.","In Progress",19049,true,,,,,,
+,,,"C 4.3","4.3 Determining the scope of the AI management system",7392,"CTL12165","The organization shall determine the boundaries and applicability of the AI management system to
+establish its scope.","In Progress",19050,true,,,,,,
+,,,"C 4.4","4.4 AI management system",7393,"CTL12166","The organization shall establish, implement, maintain, continually improve and document an AI management system, including the processes needed and their interactions, in accordance with the requirements of this document.","In Progress",19051,true,,,,,,
+"5","Leadership",706,"C 5.1","5.1 Leadership and commitment",7394,"CTL12167","Top management shall demonstrate leadership and commitment with respect to the AI management system by:
+- ensuring that the AI policy (see 5.2) and AI objectives (see 6.2) are established and are compatible with the strategic direction of the organization;
+- ensuring the integration of the AI management system requirements into the organization’s business processes;
+- ensuring that the resources needed for the AI management system are available;
+- communicating the importance of effective AI management and of conforming to the AI management system requirements;
+- ensuring that the AI management system achieves its intended result(s);
+- directing and supporting persons to contribute to the effectiveness of the AI management system;
+- promoting continual improvement;
+- supporting other relevant roles to demonstrate their leadership as it applies to their areas of responsibility.","In Progress",19052,true,,,,,,
+,,,"C 5.2","5.2 AI policy",7395,"CTL12168","Top management shall establish an AI policy that:
+a) is appropriate to the purpose of the organization;
+c) includes a commitment to meet applicable requirements;
+b) provides a framework for setting AI objectives (see 6.2);
+d) includes a commitment to continual improvement of the AI management system.","In Progress",19053,true,,,,,,
+,,,,,,"CTL12169","The AI policy shall:
+- be available as documented information;
+- refer as relevant to other organizational policies;
+- be communicated within the organization;
+- be available to interested parties, as appropriate.","In Progress",19054,true,,,,,,
+,,,"C 5.3","5.3 Roles, responsibilities and authorities",7396,"CTL12170","Top management shall ensure that the responsibilities and authorities for relevant roles are assigned and communicated within the organization.","In Progress",19055,true,,,,,,
+,,,,,,"CTL12171","Top management shall assign the responsibility and authority for:
+a) ensuring that the AI management system conforms to the requirements of this document;
+b) reporting on the performance of the AI management system to top management.","In Progress",19056,true,,,,,,
+"6","Planning",707,"C 6.1.1","6.1.1 Actions to address risks and opportunities - General",7397,"CTL12172","When planning for the AI management system, the organization shall consider the issues referred to in 4.1 and the requirements referred to in 4.2 and determine the risks and opportunities that need to be addressed to:
+- give assurance that the AI management system can achieve its intended result(s);
+- prevent or reduce undesired effects;
+- achieve continual improvement.","In Progress",19057,true,,,,,,
+,,,,,,"CTL12173","The organization shall establish and maintain AI risk criteria that support:
+- distinguishing acceptable from non-acceptable risks;
+- performing AI risk assessments;
+- conducting AI risk treatment;
+- assessing AI risk impacts.","In Progress",19058,true,,,,,,
+,,,,,,"CTL12174","The organization shall determine the risks and opportunities according to:
+- the domain and application context of an AI system;
+- the intended use;
+- the external and internal context described in 4.1","In Progress",19059,true,,,,,,
+,,,,,,"CTL12175","The organization shall plan:
+a) actions to address these risks and opportunities;
+b) how to:
+1) integrate and implement the actions into its AI management system processes;
+2) evaluate the effectiveness of these action","In Progress",19060,true,,,,,,
+,,,,,,"CTL12176","The organization shall retain documented information on actions taken to identify and address AI risks and AI opportunities.","In Progress",19061,true,,,,,,
+,,,"C 6.1.2","6.1.2 Actions to address risks and opportunities - AI risk assessment",7398,"CTL12177","The organization shall define and establish an AI risk assessment process that:
+a) is informed by and aligned to the AI policy (see 5.2) and AI objectives (see 6.2);
+b) is designed such that repeated AI risk assessments can produce consistent, valid and comparable results;
+c) identifies risks that aid or prevent achieving its AI objectives;
+d) analyses the AI risks to:
+1) assess the potential consequences to the organization, individuals and societies that would result if the identified risks were to materialize;
+2) assess, where applicable, the realistic likelihood of the identified risks;
+3) determine the levels of risk.
+e) evaluates the AI risks to:
+1) compare the results of the risk analysis with the risk criteria (see 6.1.1);
+2) prioritize the assessed risks for risk treatment.","In Progress",19062,true,,,,,,
+,,,,,,"CTL12178","The organization shall retain documented information about the AI risk assessment process.","In Progress",19063,true,,,,,,
+,,,"C 6.1.3","6.1.3 Actions to address risks and opportunities -  AI risk treatment",7399,"CTL12179","Taking the risk assessment results into account, the organization shall define an AI risk treatment process to:
+a) select appropriate AI risk treatment options;
+b) determine all controls that are necessary to implement the AI risk treatment options chosen and compare the controls with those in Annex A to verify that no necessary controls have been omitted.
+c) consider the controls from Annex A that are relevant for the implementation of the AI risk treatment options;
+d) identify if additional controls are necessary beyond those in Annex A in order to implement all risk treatment options;
+e) consider the guidance in Annex B for the implementation of controls determined in b) and c)
+f) produce a statement of applicability that contains the necessary controls [see b), c) and d)] and provide justification for inclusion and exclusion of controls. Justification for exclusion can include where the controls are not deemed necessary by the risk assessment and where they are not required by (or are subject to exceptions under) applicable external requireme
+g) formulate an AI risk treatment plan.","In Progress",19064,true,,,,,,
+,,,,,,"CTL12180","The organization shall obtain approval from the designated management for the AI risk treatment plan
+and for acceptance of the residual AI risks. The necessary controls shall be:
+- aligned to the objectives in 6.2;
+- available as documented information;
+- communicated within the organization;
+- available to interested parties, as appropriate.","In Progress",19065,true,,,,,,
+,,,,,,"CTL12181","The organization shall retain documented information about the AI risk treatment process.","In Progress",19066,true,,,,,,
+,,,"C 6.1.4","6.1.4 Actions to address risks and opportunities - AI system impact assessment",7400,"CTL12182","The organization shall define a process for assessing the potential consequences for individuals and societies that can result from the development, provision or use of AI systems.","In Progress",19067,true,,,,,,
+,,,,,,"CTL12183","The AI system impact assessment shall determine the potential consequences an AI system’s deployment, intended use and foreseeable misuse has on individuals and societies.","In Progress",19068,true,,,,,,
+,,,,,,"CTL12184","The impact assessment should take into account the specific technical and societal context where the AI system is deployed and applicable jurisdictions.","In Progress",19069,true,,,,,,
+,,,,,,"CTL12185","The result of the system impact assessment shall be documented. Where appropriate, the result of the system impact assessment can be made available to relevant interested parties as defined by the organization.","In Progress",19070,true,,,,,,
+,,,,,,"CTL12186","The organization shall consider an AI system impact assessment results in the risk assessment (see 6.1.2). A.5 in Table A.1 provides controls for assessing impacts of AI systems","In Progress",19071,true,,,,,,
+,,,"C 6.2","6.2 AI objectives and planning to achieve them",7401,"CTL12187","The organization shall establish AI objectives at relevant functions and levels.","In Progress",19072,true,,,,,,
+,,,,,,"CTL12188","The AI objectives shall:
+a) be consistent with the AI policy (see 5.2);
+c) take into account applicable requirements;
+e) be communicated;
+b) be measurable (if practicable);
+d) be monitored;
+f) be updated as appropriate;
+g) be available as documented information;","In Progress",19073,true,,,,,,
+,,,,,,"CTL12189","When planning how to achieve its AI objectives, the organization shall determine:
+- what will be done;
+- what resources will be required;
+- who will be responsible;
+- when it will be completed;
+- how the results will be evaluated.","In Progress",19074,true,,,,,,
+,,,"C 6.3","6.3 Planning of changes",7402,"CTL12190","When the organization determines the need for changes to the AI management system, the changes shall be carried out in a planned manner.","In Progress",19075,true,,,,,,
+"7","Support",708,"C 7.1","7.1 Resources",7403,"CTL12191","The organization shall determine and provide the resources needed for the establishment, implementation, maintenance and continual improvement of the AI management system.","In Progress",19076,true,,,,,,
+,,,"C 7.2","7.2 Competence",7404,"CTL12192","The organization shall:
+- determine the necessary competence of person(s) doing work under its control that affects its AI performance;
+- ensure that these persons are competent on the basis of appropriate education, training or experience;
+- where applicable, take actions to acquire the necessary competence, and evaluate the effectiveness of the actions taken.","In Progress",19077,true,,,,,,
+,,,,,,"CTL12193","Appropriate documented information shall be available as evidence of competence.","In Progress",19078,true,,,,,,
+,,,"C 7.3","7.3 Awareness",7405,"CTL12194","Persons doing work under the organization’s control shall be aware of:
+- the AI policy (see 5.2);
+- their contribution to the effectiveness of the AI management system, including the benefits of improved AI performance;
+- the implications of not conforming with the AI management system requirements.","In Progress",19079,true,,,,,,
+,,,"C 7.4","7.4 Communication",7406,"CTL12195","The organization shall determine the internal and external communications relevant to the AI management system including:
+- on what it will communicate;
+- when to communicate;
+- with whom to communicate;
+- how to communicate.","In Progress",19080,true,,,,,,
+,,,"C 7.5.1","7.5.1 Documented information - General",7407,"CTL12196","The organization’s AI management system shall include:
+a) documented information required by this document;
+b) documented information determined by the organization as being necessary for the effectiveness of the AI management system.","In Progress",19081,true,,,,,,
+,,,"C 7.5.2","7.5.2 Documented information - Creating and updating documented information",7408,"CTL12197","When creating and updating documented information, the organization shall ensure appropriate:
+- identification and description (e.g. a title, date, author or reference number);
+- format (e.g. language, software version, graphics) and media (e.g. paper, electronic);
+- review and approval for suitability and adequacy.","In Progress",19082,true,,,,,,
+,,,"C 7.5.3","7.5.3 Documented information - Control of documented information",7409,"CTL12198","Documented information required by the AI management system and by this document shall be controlled to ensure:
+a) it is available and suitable for use, where and when it is needed;
+b) it is adequately protected (e.g. from loss of confidentiality, improper use or loss of integrity).","In Progress",19083,true,,,,,,
+,,,,,,"CTL12199","For the control of documented information, the organization shall address the following activities, as applicable:
+- distribution, access, retrieval and use;
+- storage and preservation, including preservation of legibility;
+- control of changes (e.g. version control);
+- retention and disposition.","In Progress",19084,true,,,,,,
+,,,,,,"CTL12200","Documented information of external origin determined by the organization to be necessary for the planning and operation of the AI management system shall be identified as appropriate and controlled.","In Progress",19085,true,,,,,,
+"8","Operation",709,"C 8.1","8.1 Operational planning and control",7410,"CTL12201","The organization shall plan, implement and control the processes needed to meet requirements, and to implement the actions determined in Clause 6, by:
+- establishing criteria for the processes;
+- implementing control of the processes in accordance with the criteria.","In Progress",19086,true,,,,,,
+,,,,,,"CTL12202","The organization should implement the controls determined according to 6.1.3 that are related to the operation of the AI management system (e.g. AI system development and usage life cycle related controls).","In Progress",19087,true,,,,,,
+,,,,,,"CTL12203","Documented information shall be available to the extent necessary to have confidence that the processes have been carried out as planned.","In Progress",19088,true,,,,,,
+,,,,,,"CTL12204","The organization shall control planned changes and review the consequences of unintended changes, taking action to mitigate any adverse effects, as necessary.","In Progress",19089,true,,,,,,
+,,,,,,"CTL12205","The organization shall ensure that externally provided processes, products or services that are relevant to the AI management system are controlled.","In Progress",19090,true,,,,,,
+,,,"C 8.2","8.2 AI risk assessment",7411,"CTL12206","The organization shall perform AI risk assessments in accordance with 6.1.2 at planned intervals or when significant changes are proposed or occur.","In Progress",19091,true,,,,,,
+,,,,,,"CTL12207","The organization shall retain documented information of the results of all AI risk assessments.","In Progress",19092,true,,,,,,
+,,,"C 8.3","8.3 AI risk treatment",7412,"CTL12208","The organization shall implement the AI risk treatment plan according to 6.1.3 and verify its effectiveness.","In Progress",19093,true,,,,,,
+,,,,,,"CTL12209","When risk assessments identify new risks that require treatment, a risk treatment process in accordance with 6.1.3 shall be performed for these risks.","In Progress",19094,true,,,,,,
+,,,,,,"CTL12210","When risk treatment options as defined by the risk treatment plan are not effective, these treatment options shall be reviewed and revalidated following the risk treatment process according to 6.1","In Progress",19095,true,,,,,,
+,,,,,,"CTL12211","The organization shall retain documented information of the results of all AI risk treatments.","In Progress",19096,true,,,,,,
+,,,"C 8.4","8.4 AI system impact assessment",7413,"CTL12212","The organization shall perform AI system impact assessments according to 6.1.4 at planned intervals or when significant changes are proposed to occur.","In Progress",19097,true,,,,,,
+,,,,,,"CTL12213","The organization shall retain documented information of the results of all AI system impact assessments.","In Progress",19098,true,,,,,,
+"9","Performance Evaluation",710,"C 9.1","9.1 Monitoring, measurement, analysis and evaluation",7414,"CTL12214","The organization shall determine:
+- what needs to be monitored and measured;
+- the methods for monitoring, measurement, analysis and evaluation, as applicable, to ensure valid results;
+- when the monitoring and measuring shall be performed;
+- when the results from monitoring and measurement shall be analysed and evaluated.","In Progress",19099,true,,,,,,
+,,,,,,"CTL12215","The organization shall evaluate the performance and the effectiveness of the AI management system.","In Progress",19100,true,,,,,,
+,,,"C 9.2.1","9.2.1 Internal audit - General",7415,"CTL12216","The organization shall conduct internal audits at planned intervals to provide information on whether the AI management system:
+a) conforms to:
+1) the organization’s own requirements for its AI management system;
+2) the requirements of this document;
+b) is effectively implemented and maintained.","In Progress",19101,true,,,,,,
+,,,"C 9.2.2","9.2.2 Internal audit - Internal audit programme",7416,"CTL12217","The organization shall plan, establish, implement and maintain (an) audit programme(s), including the frequency, methods, responsibilities, planning requirements and reporting.","In Progress",19102,true,,,,,,
+,,,,,,"CTL12218","When establishing the internal audit programme(s), the organization shall consider the importance of the processes concerned and the results of previous audits.","In Progress",19103,true,,,,,,
+,,,,,,"CTL12219","The organization shall:
+a) define the audit objectives, criteria and scope for each audit;
+c) ensure that the results of audits are reported to relevant managers.
+b) select auditors and conduct audits to ensure objectivity and the impartiality of the audit process;","In Progress",19104,true,,,,,,
+,,,,,,"CTL12220","Documented information shall be available as evidence of the implementation of the audit programme(s) and the audit results.","In Progress",19105,true,,,,,,
+,,,"C 9.3.1","9.3.1 Management review - General",7417,"CTL12221","Top management shall review the organization’s AI management system, at planned intervals, to ensure its continuing suitability, adequacy and effectiveness.","In Progress",19106,true,,,,,,
+,,,"C 9.3.2","9.3.2 Management review inputs",7418,"CTL12222","The management review shall include:
+a) the status of actions from previous management reviews;
+b) changes in external and internal issues that are relevant to the AI management system;
+c) changes in needs and expectations of interested parties that are relevant to the AI management system;
+d) information on the AI management system performance, including trends in:
+1) nonconformities and corrective actions;
+2) monitoring and measurement results;
+3) audit results;
+e) opportunities for continual improvement.","In Progress",19107,true,,,,,,
+,,,"C 9.3.3","9.3.3 Management review results",7419,"CTL12223","The results of the management review shall include decisions related to continual improvement opportunities and any need for changes to the AI management system.","In Progress",19108,true,,,,,,
+,,,,,,"CTL12224","Documented information shall be available as evidence of the results of management reviews.","In Progress",19109,true,,,,,,
+"10","Improvement",711,"C 10.1","10.1 Continual improvement",7420,"CTL12225","The organization shall continually improve the suitability, adequacy and effectiveness of the AI management system.","In Progress",19110,true,,,,,,
+,,,"C 10.2","10.2 Nonconformity and corrective action",7421,"CTL12226","When a nonconformity occurs, the organization shall:
+a) react to the nonconformity and as applicable:
+1) take action to control and correct it;
+2) deal with the consequences;
+b) evaluate the need for action to eliminate the cause(s) of the nonconformity, in order that it does not recur or occur elsewhere, by:
+1) reviewing the nonconformity;
+2) determining the causes of the nonconformity;
+3) determining if similar nonconformities exist or can potentially occur;
+c) implement any action needed;
+d) review the effectiveness of any corrective action taken;
+e) make changes to the AI management system, if necessary.","In Progress",19111,true,,,,,,
+,,,,,,"CTL12227","Corrective actions shall be appropriate to the effects of the nonconformities encountered.","In Progress",19112,true,,,,,,
+,,,,,,"CTL12228","Documented information shall be available as evidence of:
+- the nature of the nonconformities and any sub","In Progress",19113,true,,,,,,
+"A.2","Policies related to AI",712,"A.2.2","AI policy",7422,"CTL12229","The organization shall document a policy for the develop­ment or use of AI systems.","In Progress",19114,true,,,,,,
+,,,"A.2.3","Alignment with other organiza­tional policies",7423,"CTL12230","The organization shall determine where other policies can be affected by or apply to, the organization’s objectives with respect to AI systems.","In Progress",19115,true,,,,,,
+,,,"A.2.4","Review of the AI policy",7424,"CTL12231","The AI policy shall be reviewed at planned intervals or additionally as needed to ensure its continuing suitability, adequacy and effectiveness.","In Progress",19116,true,,,,,,
+"A.3","Internal organization",713,"A.3.2","AI roles and responsibilities",7425,"CTL12232","Roles and responsibilities for AI shall be defined and allo­cated according to the needs of the organization.","In Progress",19117,true,,,,,,
+,,,"A.3.3","Reporting of concerns",7426,"CTL12233","The organization shall define and put in place a process for employees of the organization to report concerns about the organization’s role with respect to an AI system throughout its life cycle.","In Progress",19118,true,,,,,,
+"A.4","Resources for AI systems",714,"A.4.2","Resource documentation",7427,"CTL12234","The organization shall identify and document relevant resources required for the activities at given AI system life cycle stages and other AI-related activities relevant for the organization.","In Progress",19119,true,,,,,,
+,,,"A.4.3","Data resources",7428,"CTL12235","As part of resource identification, the organization shall document information about the data resources utilized for the AI syst","In Progress",19120,true,,,,,,
+,,,"A.4.4","Tooling resources",7429,"CTL12236","As part of resource identification, the organization shall document information about the tooling resources utilized for the AI system.","In Progress",19121,true,,,,,,
+,,,"A.4.5","System and computing resources",7430,"CTL12237","As part of resource identification, the organization shall document information about the system and computing resources utilized for the AI system.","In Progress",19122,true,,,,,,
+,,,"A.4.6","Human resources",7431,"CTL12238","As part of resource identification, the organization shall document information about the human resources and their competences utilized for the development, deployment, operation, change management, maintenance, transfer and decommissioning, as well as verification and integration of the AI system.","In Progress",19123,true,,,,,,
+"A.5","Assessing impacts of AI systems",715,"A.5.2","AI system impact assessment process",7432,"CTL12239","The organization shall establish a process to assess the potential consequences for individuals and societies that can result from the AI system throughout its life cycle.","In Progress",19124,true,,,,,,
+,,,"A.5.3","Documentation of AI system im­pact assessments",7433,"CTL12240","The organization shall document the results of AI system impact assessments and retain results for a defined peri­od.","In Progress",19125,true,,,,,,
+,,,"A.5.4","Assessing AI system impact on in dividuals and groups of individuals­",7434,"CTL12241","The organization shall assess and document the potential impacts of AI systems to individuals or groups of individu­als throughout the system’s life cycle.","In Progress",19126,true,,,,,,
+,,,"A.5.5","Assessing societal impacts of AI systems",7435,"CTL12242","The organization shall assess and document the potential societal impacts of their AI systems throughout their life cycle.","In Progress",19127,true,,,,,,
+"A.6","AI system life cycle",716,"A.6.1.2","Objectives for responsible develop­ment of AI system",7436,"CTL12243","The organization shall identify and document objectives to guide the development of trustworthy AI systems, and take those objectives into account and integrate measures to achieve them in the development life cycle.","In Progress",19128,true,,,,,,
+,,,"A.6.1.3","Processes for trustworthy AI sys­tem design and development",7437,"CTL12244","The organization shall define and document the specific processes for the responsible design and development ofthe AI system.","In Progress",19129,true,,,,,,
+,,,"A.6.2.2","AI system requirements and spec­ification",7438,"CTL12245","The organization shall specify and document require­ ments for new AI systems or material enhancements to existing systems.","In Progress",19130,true,,,,,,
+,,,"A.6.2.3","Documentation of AI system design and development",7439,"CTL12246","The organization shall document the AI system design and development based on organizational objectives, docu­mented requirements and specification criteria.","In Progress",19131,true,,,,,,
+,,,"A.6.2.4","AI system verification and valida­tion",7440,"CTL12247","The organization shall define and document verification and validation measures for the AI system and specify criteria for their use.","In Progress",19132,true,,,,,,
+,,,"A.6.2.5","AI system deployment",7441,"CTL12248","The organization shall document a deployment plan and ensure that appropriate requirements are met prior to deployment.","In Progress",19133,true,,,,,,
+,,,"A.6.2.6","AI system operation and monitor­ing",7442,"CTL12249","The organization shall define and document the necessary elements for the ongoing operation of the AI system. At the minimum, this should include system and performance monitoring, repairs, updates and support.","In Progress",19134,true,,,,,,
+,,,"A.6.2.7","AI system technical documentation",7443,"CTL12250","The organization shall determine what AI system techni­cal documentation is needed for each relevant category of interested parties, such as users, partners, supervisory authorities, and provide the technical documentation to them in the appropriate form.","In Progress",19135,true,,,,,,
+,,,"A.6.2.8","AI system recording of event logs",7444,"CTL12251","The organization shall determine at which phases of the AI system life cycle, record keeping of event logs should be enabled, but at the minimum when the AI system is in use.","In Progress",19136,true,,,,,,
+"A.7","Data for AI systems",717,"A.7.2","Data for development and enhancement of AI system",7445,"CTL12252","The organization shall define, document and implement data management processes related to the development of AI systems.","In Progress",19137,true,,,,,,
+,,,"A.7.3","Acquisition of data",7446,"CTL12253","The organization shall determine and document details about the acquisition and selection of the data used in AI systems.","In Progress",19138,true,,,,,,
+,,,"A.7.4","Quality of data for AI systems",7447,"CTL12254","The organization shall define and document requirements for data quality and ensure that data used to develop and operate the AI system meet those requirements.","In Progress",19139,true,,,,,,
+,,,"A.7.5","Data provenance",7448,"CTL12255","The organization shall define and document a process for recording the provenance of data used in its AI systems over the life cycles of the data and the AI system.","In Progress",19140,true,,,,,,
+,,,"A.7.6","Data preparation",7449,"CTL12256","The organization shall define and document its criteria for selecung data preparations and the data preparation methods to be used.","In Progress",19141,true,,,,,,
+"A.8","Information for interested parties of AI systems",718,"A.8.2","System documentation and infor­mation for users",7450,"CTL12257","The organization shall determine and provide the necessary information to users of the Al system.","In Progress",19142,true,,,,,,
+,,,"A.8.3","External reporting",7451,"CTL12258","The organization shall provide capabilities for interested parties to report adverse impacts of the Al system.","In Progress",19143,true,,,,,,
+,,,"A.8.4","Communication of incidents",7452,"CTL12259","The organization shall determine and document a plan for communicating incidents to users ofthe Al system.","In Progress",19144,true,,,,,,
+,,,"A.8.5","Information for interested parties",7453,"CTL12260","The organization shall determine and document their obligations to reporting information about the AI system to interested parties.","In Progress",19145,true,,,,,,
+"A.9","Use of AI systems",719,"A.9.2","Processes for responsible use of AI systems",7454,"CTL12261","The organization shall define and document the processes for the responsible use of AI systems.","In Progress",19146,true,,,,,,
+,,,"A.9.3","Objectives for responsible use of AI system",7455,"CTL12262","The organization shall identify and document objectives to guide the responsible use of AI systems.","In Progress",19147,true,,,,,,
+,,,"A.9.4","Intended use of the AI system",7456,"CTL12263","The organization shall ensure that the AI system is used according to the intended uses of the AI system and its accompanying documentation.","In Progress",19148,true,,,,,,
+"A.10","Third-party and customer relationships",720,"A.10.3","Suppliers",7457,"CTL12264","The organization shall establish a process to ensure that its usage of services, products or materials provided by suppliers aligns with the organization's approach to the responsible development and use of Al systems.","In Progress",19150,true,,,,,,
+,,,"A.10.4","Customers",7458,"CTL12265","The organization shall ensure that its responsible approach to the development and use of AL systems considers their customer expectations and needs.","In Progress",19151,true,,,,,,
+,,,"A.10.2","Allocating responsibilities",7459,"CTL12266","The organization shall ensure that responsibilities within their Al system life cycle are allocated between the organization, its partners, suppliers, customers and third parties.","In Progress",19149,true,,,,,,
